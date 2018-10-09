@@ -1,5 +1,5 @@
-Connection String: <Your Connection String starts from here.>
-Hostname: <Hostname>
-Port: <Port>
-Username: <Username>
-Password: <Password>
+Connection String: mysql --host=cs5200-fall2018-niketh-1.c6n4ywnhptua.us-east-2.rds.amazonaws.com --user=raghav --password=password123 assignment_2
+Hostname: cs5200-fall2018-niketh-1.c6n4ywnhptua.us-east-2.rds.amazonaws.com
+Port: 3306
+Username: raghav
+Password: password123
